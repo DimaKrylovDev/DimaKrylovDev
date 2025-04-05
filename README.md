@@ -1,4 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=DimaKrylovDev&style=for-the-badge&color=red" alt=""/>
+<div id="header" align="center">
+ <img 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2OWl5bTg1MnBiM3o4bWhvMm41MDVwbnJxbDAyaGNrd2l2NW0wNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" />
+</div>
 
 ## Hi there 👋, Im Dima
 
